@@ -1,0 +1,31 @@
+[{
+    "item" : "SCP-005",
+    "objectClass" : "Safe",
+    "specialContainmentProcedures" : "SCP-005 poses no immediate risk in any direct sense. Even so, its unique functions require special measures be taken to restrict access and manipulation of the object.",
+    "description": "In appearance, SCP-005 resembles an ornate key, displaying the characteristics of a typical mass produced key used in the 1920s. The key was discovered when a civilian used it to infiltrate a high security facility" 
+},
+  {
+    "item" : "SCP-006",
+    "objectClass" : "Safe",
+    "specialContainmentProcedures" : "Whereas the nature of SCP-006 does not warrant any extensive containment, a certain level of secrecy is necessary regarding the object's existence and properties, for obvious reasons. The following procedures are required not for personnel safety, but to deny or hide knowledge of SCP-006's effects from the personnel who interact with it.",
+    "description": "SCP-006 is a very small spring located 60 km west of Astrakhan. Foundation Command was aware of its existence since the 19th century, but were unable to secure it until 1991 due to political reasons. On the spot of the spring, a chemical factory has been constructed as a disguise, with the majority of laborers under Foundation and/or Russian control." 
+},
+  {
+    "item" : "SCP-007",
+    "objectClass" : "Euclid",
+    "specialContainmentProcedures" : "SCP-007 is to be contained in a sealed room measuring 10 m on each side. Room is to be furnished comfortably as a living area, along with whatever items ",
+    "description": "SCP-007 is located within a cavity in the abdomen of Subject. Subject is a Caucasian male, physically approximately 25 years of age (subject claims to be 28) and 176 cm in height. " 
+},
+  {
+    "item" : "SCP-009",
+    "objectClass" : "Eculid",
+    "specialContainmentProcedures" : "Object is to be contained within a sealed storage tank of heat-resistant alloy with dimensions not less than 2m x 2m x 2m.",
+    "description": " In contrast to mundane water, SCP-009 assumes a liquid phase at temperatures between -100°C and 0°C, and a solid state above those temperatures. At temperatures below -100°C, SCP-009 vaporizes into a gaseous phase similar to steam." 
+},
+    {
+    "item" : "SCP-010",
+    "objectClass" : "Safe",
+    "specialContainmentProcedures" : "The objects comprising SCP-010 are to be kept in numbered locked boxes in a high security facility. They are not to be worn except by test subjects.",
+    "description": "SCP-010 consists of a series of six (6) apparently identical cast iron collars with numbered metal tags and one (1) remote control. The control is SCP-010-1. The collars are SCP-010-2 through 010-7. The collars contain intricate electronic components and are powered by small (5 mm diameter, 2 mm thick) 100 V batteries. These batteries are rechargeable." 
+}
+  ]
